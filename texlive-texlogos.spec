@@ -48,3 +48,16 @@ Business Administration Center (BWZ).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3.1-2
++ Revision: 756741
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.3.1-1
++ Revision: 719706
+- texlive-texlogos
+- texlive-texlogos
+- texlive-texlogos
+
