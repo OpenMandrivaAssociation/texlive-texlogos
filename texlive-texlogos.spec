@@ -6,7 +6,7 @@
 # catalog-version 1.3.1
 Name:		texlive-texlogos
 Version:	1.3.1
-Release:	8
+Release:	9
 Summary:	Ready-to-use LaTeX logos
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlogos/texlogos.sty
