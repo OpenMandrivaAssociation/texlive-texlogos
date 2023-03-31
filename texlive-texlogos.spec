@@ -1,6 +1,6 @@
 Name:		texlive-texlogos
 Version:	19083
-Release:	1
+Release:	2
 Summary:	Ready-to-use LaTeX logos
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlogos/texlogos.sty
