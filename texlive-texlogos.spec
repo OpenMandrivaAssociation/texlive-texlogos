@@ -3,7 +3,7 @@ Version:	19083
 Release:	2
 Summary:	Ready-to-use LaTeX logos
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlogos/texlogos.sty
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texlogos/texlogos.sty
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texlogos.r%{version}.tar.xz
 BuildArch:	noarch
